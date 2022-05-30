@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 <div>The Project Gutenberg eBook of War and Peace, by Leo Tolstoy</div>
