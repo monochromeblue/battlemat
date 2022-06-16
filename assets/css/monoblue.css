@@ -1,5 +1,5 @@
 .wrapper {
-    min-height: 100%; /* This is being used to create a sticky footer, a better version would use flexbox */
+    height: 100%; /* This is being used to create a sticky footer, a better version would use flexbox */
 }
 
 .header {
