@@ -2,4 +2,6 @@
 layout: default
 ---
 
-Hello World!
+{% for post in site.posts %}
+    {% include article.html %}
+{% endfor %}
