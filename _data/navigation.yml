@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /index/
+    description: "Test description"
+  - title: "War & Peace"
+    url: /test-war_and_peace/
+    description: "The really long novel by Leo Tolstoy."
+  - title: "HTML Elements"
+    url: /test-elements/
+    description: "A page containing each HTML to test css stylings."
+  - title: "Ungrid"
+    url: /ungrid/
+    description: "CSS Tables as a responsive grid, test page."

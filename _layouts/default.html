@@ -10,8 +10,9 @@
   {% endif %}
 </head>
 <body>
-
-    {{content}}
+  {% include_cached masthead.html %}
+  
+  {{content}}
 
 </body>
 </html>

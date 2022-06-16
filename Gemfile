@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.2.2"
+gem 'jekyll-include-cache'
 
 # Original Gemfile below
 # Hello! This is where you manage which Jekyll version is used to run.
