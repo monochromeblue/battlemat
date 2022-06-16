@@ -8,4 +8,5 @@
 
 .footer {
     width: 30%; /* Should match .header */ 
+    padding-left: 40px;
 }
