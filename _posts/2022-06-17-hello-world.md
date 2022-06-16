@@ -1,6 +1,7 @@
 ---
 layout: article
 title:  "Hello World!"
+permalink: /hello-world/
 description: "My first post to the site."
 ---
 
