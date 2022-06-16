@@ -10,9 +10,18 @@
   {% endif %}
 </head>
 <body>
-  {% include_cached masthead.html %}
-  
-  {{content}}
+
+  <div class="wrapper row">
+
+    <header class="header col">
+      {% include_cached masthead.html %}
+    </header>
+    
+    <main class="main col">
+      {{content}}
+    </main>
+
+  </div>
 
 </body>
 </html>
