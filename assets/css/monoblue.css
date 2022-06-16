@@ -1,10 +1,5 @@
-.wrapper {
-    height: 100%; /* This is being used to create a sticky footer, a better version would use flexbox */
-}
-
 .header {
     width: 30%;
-    padding-bottom: 50px; /* This is being used to create a sticky footer, a better version would use flexbox */
 }
 
 .article {
@@ -13,5 +8,4 @@
 
 .footer {
     width: 30%; /* Should match .header */ 
-    height: 50px; /* should match .header padding-bottom */
 }
