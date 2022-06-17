@@ -15,6 +15,10 @@
     padding-left: 40px;
 }
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 h1,
 h2,
 h3,
@@ -45,12 +49,16 @@ h6 {
     font-size: 1em;
 }
 
-p {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 tr,
 th,
-td {
+td,
+pre,
+code,
+kbd,
+samp {
     font-family: 'Courier New', Courier, monospace;
+}
+
+figcaption {
+    font-style: italic;
 }
