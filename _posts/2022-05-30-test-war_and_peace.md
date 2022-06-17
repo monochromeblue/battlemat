@@ -8,8 +8,8 @@ description: "The Project Gutenberg eBook of War and Peace, by Leo Tolstoy"
 excerpt: 
 ---
 
-<div>The Project Gutenberg eBook of War and Peace, by Leo Tolstoy</div>
-<div>
+<p>The Project Gutenberg eBook of War and Peace, by Leo Tolstoy</p>
+<p>
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
 whatsoever. You may copy it, give it away or re-use it under the terms
@@ -17,20 +17,16 @@ of the Project Gutenberg License included with this eBook or online
 at <a href="https://www.gutenberg.org/">www.gutenberg.org</a>. If you
 are not located in the United States, you will have to check the laws of the
 country where you are located before using this eBook.
-</div>
-<div>Title: War and Peace</div>
-<div>Author: Leo Tolstoy</div>
-<div>Translators: Louise and Aylmer Maude</div>
-<div>Release Date: April, 2001 [eBook #2600]<br>
-[Most recently updated: January 21, 2019]</div>
-<div>Language: English</div>
-<div>Character set encoding: UTF-8</div>
-<div>Produced by: An Anonymous Volunteer and David Widger</div>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK WAR AND PEACE ***</div>
-
-<div>
-<img src="/assets/img/cover.jpg">
-</div>
+</p>
+<p>Title: War and Peace</p>
+<p>Author: Leo Tolstoy</p>
+<p>Translators: Louise and Aylmer Maude</p>
+<p>Release Date: April, 2001 [eBook #2600]<br>
+[Most recently updated: January 21, 2019]</p>
+<p>Language: English</p>
+<p>Character set encoding: UTF-8</p>
+<p>Produced by: An Anonymous Volunteer and David Widger</p>
+<p>*** START OF THE PROJECT GUTENBERG EBOOK WAR AND PEACE ***</p>
 
 <h1>WAR AND PEACE</h1>
 
