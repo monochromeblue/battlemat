@@ -18,7 +18,7 @@ layout: wide
             <span>{{ post.description }}</span>
         </li>
         <li class="row">
-            <span>{{ post.exerpt }}</span>
+            <span>{{ post.excerpt }}</span>
         </li>
     {% endfor %}
 </ul>
