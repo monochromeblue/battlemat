@@ -11,7 +11,7 @@ layout: default
     {%- endfor -%}
     {% for post in site.posts %}
         <li class="row">
-        <a href="{{ post.url | relative_url }}" title="{{ post.description }}">{{ post.title }}</a>
+        <a href="{{ post.permalink }}" title="{{ post.description }}">{{ post.title }}</a>
         </li>
     {% endfor %}
 </ul>
