@@ -11,3 +11,6 @@ main:
   - title: "Ungrid"
     url: /ungrid/
     description: "CSS Tables as a responsive grid, test page."
+  - title: "Post List"
+    url: /posts/
+    description: "A list of all posts in the _posts folder."
