@@ -6,6 +6,10 @@
     max-width: 30em;
 }
 
+.wide {
+    max-width: 50em;
+}
+
 .footer {
     width: 30%; /* Should match .header */ 
     padding-left: 40px;
