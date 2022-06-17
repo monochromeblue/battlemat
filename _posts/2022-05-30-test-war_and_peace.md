@@ -3,7 +3,7 @@ layout: article
 permalink: /War-and-Peace/
 title: "War and Peace"
 date: 2022-05-30 10:45:00
-modified: 2022-06-16 23:40:00
+modified: 
 description: "The Project Gutenberg eBook of War and Peace, by Leo Tolstoy"
 excerpt: 
 ---
