@@ -9,10 +9,10 @@ layout: default
             <a href="{{ post.permalink }}" title="{{ post.description }}">{{ post.title }}</a>
         </li>
         <li class="row">
-            <span>{{ post.date }}</span>
+            <span>{{ post.date | date: "%-d %B %Y" }}</span>
         </li>
         <li class="row">
-            <span>{{ post.modified }}</span>
+            <span>{{ post.modified | date: "%-d %B %Y" }}</span>
         </li>
         <li class="row">
             <span>{{ post.description }}</span>
