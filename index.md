@@ -3,5 +3,5 @@ layout: default
 ---
 
 {% for post in site.posts %}
-    {% include article.html %}
+    {% include article-exerpt.html %}
 {% endfor %}
