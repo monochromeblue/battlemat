@@ -1,8 +1,11 @@
 ---
 layout: article
-title:  "Hello World!"
 permalink: /hello-world/
+title:  "Hello World!"
+date: 2022-06-17 19:27:00
+last_modified: 
 description: "My first post to the site."
+exerpt: "**Hello world**, this is my first Jekyll blog post."
 ---
 
 # Welcome
