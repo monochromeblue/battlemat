@@ -4,10 +4,14 @@ layout: default
 
 
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
+    {%- for link in site.data.navigation.main -%}
+        <li class="row">
+        <a href="{{ link.url | relative_url }}" title="{{ link.description }}">{{ link.title }}</a>
+        </li>
+    {%- endfor -%}
+    {% for post in site.posts %}
+        <li class="row">
+        <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
 </ul>
-
