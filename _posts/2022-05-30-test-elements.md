@@ -5,7 +5,7 @@ title: "HTML5 Test Page"
 date: 2022-05-30 12:10:00
 modified: 2022-06-16 23:40:00
 description: "A page containing each HTML to test css stylings."
-exerpt: "This is a test page filled with common HTML elements to be used to provide visual feedback whilst building CSS systems and frameworks."
+excerpt: "This is a test page filled with common HTML elements to be used to provide visual feedback whilst building CSS systems and frameworks."
 ---
 
 <div id="top" role="document">
