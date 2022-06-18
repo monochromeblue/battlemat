@@ -18,5 +18,6 @@ layout: wide
         <li class="row">
             <span>{{ post.excerpt }}</span>
         </li>
+        <hr>
     {% endfor %}
 </ul>
