@@ -2,8 +2,8 @@
 layout: article
 permalink: /HTML5-Test-Page/
 title: "HTML5 Test Page"
-date: 2022-05-30 12:10:00
-modified: 2022-06-16 23:40:00
+date: 2022-05-30 12:10:00 +0100 
+modified: 2022-06-16 23:40:00 +0100 
 description: "A page containing each HTML to test css stylings."
 excerpt: "This is a test page filled with common HTML elements to be used to provide visual feedback whilst building CSS systems and frameworks."
 ---
