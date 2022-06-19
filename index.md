@@ -6,7 +6,9 @@ layout: wide
     {{ post.content }}
 {% endfor %}
 </section>
+<hr>
 
+<h2>Recent Posts:</h2>
 <ul>
     {% for post in site.posts offset:1 limit:3 %}
         <li class="row">
@@ -24,4 +26,7 @@ layout: wide
         </li>
         <hr>
     {% endfor %}
+        <li class="row">
+            <a href="/all-posts/" title="Directory page for all posts">More posts</a>
+        </li>
 </ul>
