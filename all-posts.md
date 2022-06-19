@@ -8,7 +8,13 @@ description: "Site posts directory."
 excerpt: 
 ---
 
-{% include_cached masthead.html %}
+<ul>
+    {%- for link in site.data.navigation.main -%}
+        <li class="row">
+            <a href="{{ link.url | relative_url }}" title="{{ link.description }}">{{ link.title }}</a>
+        </li>
+    {%- endfor -%}
+</ul>
 
 <ul>
     {% for post in site.posts %}
