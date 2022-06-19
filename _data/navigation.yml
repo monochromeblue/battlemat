@@ -1,4 +1,7 @@
 main:
   - title: "Home"
     url: /index/
-    description: "Test description"
+    description: "monochrome.blue | Home"
+  - title: "About"
+    url: /about/
+    description: "About the site and its author."
