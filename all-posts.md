@@ -8,6 +8,8 @@ description: "Site posts directory."
 excerpt: 
 ---
 
+<h1>Directory:</h1>
+<h2>Pages:</h2>
 <ul>
     {%- for link in site.data.navigation.main -%}
         <li class="row">
@@ -16,6 +18,7 @@ excerpt:
     {%- endfor -%}
 </ul>
 
+<h2>Posts:</h2>
 <ul>
     {% for post in site.posts %}
         <li class="row">
