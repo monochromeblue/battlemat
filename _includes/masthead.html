@@ -12,3 +12,24 @@
         {% endfor %}
     </ul>
 </nav>
+
+
+<nav>
+  <ul>
+      {%- for link in site.data.navigation.main -%}
+        <li class="row">
+          <a href="{{ link.url | relative_url }}" title="{{ link.description }}">{{ link.title }}</a>
+        </li>
+      {%- endfor -%}
+      <li class="row">
+        <a href="/all-posts/" title="Directory page for all posts">Posts:</a>
+        <ul>
+          {% for post in site.posts %}
+            <li class="row">
+              <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
+  </ul>
+</nav>
