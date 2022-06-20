@@ -54,5 +54,6 @@ logo:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+excerpt_separator: <!--more-->
 plugins:
   - jekyll-include-cache

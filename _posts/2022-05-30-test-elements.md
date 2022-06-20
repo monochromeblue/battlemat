@@ -13,6 +13,7 @@ excerpt: "This is a test page filled with common HTML elements to be used to pro
         <h1>HTML5 Test Page</h1>
         <p>This is a test page filled with common HTML elements to be used to provide visual feedback whilst building CSS systems and frameworks.</p>
       </header>
+      <!--more-->
       <nav role="navigation">
         <ul>
           <li>
