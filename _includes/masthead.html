@@ -1,3 +1,10 @@
+{% if site.logo %}
+  <a href="/home/"><img alt="{{ site.title }} logo" scr="{{ site.logo }}"></a>&nbsp;<h1>{{ site.title }}</h1>
+{% else %}
+  <h1>{{ site.title }}</h1>
+{% endif %}
+
+
 <nav>
   <ul>
       {%- for link in site.data.navigation.main -%}
