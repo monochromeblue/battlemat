@@ -1,7 +1,7 @@
 {% if site.logo %}
-  <a href="/home/"><img alt="{{ site.title }} logo" scr="{{ site.logo }}"></a>&nbsp;<h1>{{ site.title }}</h1>
+  <a href="{{ site.url }}"><img alt="{{ site.title }} logo" scr="{{ site.logo }}">&nbsp;<h1>{{ site.title }}</h1></a>
 {% else %}
-  <h1>{{ site.title }}</h1>
+<a href="{{ site.url }}"><h1>{{ site.title }}</h1></a>
 {% endif %}
 
 
