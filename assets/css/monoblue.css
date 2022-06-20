@@ -75,3 +75,7 @@ p {
 figcaption {
     font-style: italic;
 }
+
+.header a {
+    padding-left: 40px;
+}
