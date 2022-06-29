@@ -4,10 +4,10 @@ layout: default
 
 <article class="article">
     <h1>{{ page.title }}</h1>
-    {% if post.modified %}
-        <p>Published: {{ post.date | date: "%-d %B %Y %H:%M" }}, last updated {{ post.modified | date: "%-d %B %Y %H:%M" }}</p> 
+    {% if page.modified %}
+        <p>Published: {{ page.date | date: "%-d %B %Y %H:%M" }}, last updated {{ page.modified | date: "%-d %B %Y %H:%M" }}</p> 
     {% else %}
-        <p>Published: {{ post.date | date: "%-d %B %Y" }}</p>
+        <p>Published: {{ page.date | date: "%-d %B %Y" }}</p>
     {% endif %}
     {{content}}
 </article>
