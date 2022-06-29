@@ -9,7 +9,6 @@ excerpt: "The Project Gutenberg eBook of War and Peace, by Leo Tolstoy"
 ---
 
 <p>The Project Gutenberg eBook of War and Peace, by Leo Tolstoy</p>
-<!--more-->
 <p>
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
