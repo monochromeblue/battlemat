@@ -79,3 +79,94 @@ figcaption {
 .header h1 {
     padding-left: 40px;
 }
+
+
+/* testing */
+.row12 {
+    background-color: blue;
+}
+.row6 {
+    background-color: coral;
+}
+.row4 {
+    background-color: blue;
+}
+.row3 {
+    background-color: coral;
+}
+
+._12-1 {
+    background-color: rgba(255, 255, 255, .08);
+}
+._12-2 {
+    background-color: rgba(255, 255, 255, .16);
+}
+._12-3 {
+    background-color: rgba(255, 255, 255, .24);
+}
+._12-4 {
+    background-color: rgba(255, 255, 255, .32);
+}
+._12-5 {
+    background-color: rgba(255, 255, 255, .40);
+}
+._12-6 {
+    background-color: rgba(255, 255, 255, .48);
+}
+._12-7 {
+    background-color: rgba(255, 255, 255, .56);
+}
+._12-8 {
+    background-color: rgba(255, 255, 255, .64);
+}
+._12-9 {
+    background-color: rgba(255, 255, 255, .72);
+}
+._12-10 {
+    background-color: rgba(255, 255, 255, .80);
+}
+._12-11 {
+    background-color: rgba(255, 255, 255, .88);
+}
+._12-12 {
+    background-color: rgba(255, 255, 255, .96);
+}
+._6-1 {
+    background-color: rgba(255, 255, 255, .16);
+}
+._6-2 {
+    background-color: rgba(255, 255, 255, .32);
+}
+._6-3 {
+    background-color: rgba(255, 255, 255, .48);
+}
+._6-4 {
+    background-color: rgba(255, 255, 255, .64);
+}
+._6-5 {
+    background-color: rgba(255, 255, 255, .80);
+}
+._6-6 {
+    background-color: rgba(255, 255, 255, .96);
+}
+._4-1 {
+    background-color: rgba(255, 255, 255, .25);
+}
+._4-2 {
+    background-color: rgba(255, 255, 255, .50);
+}
+._4-3 {
+    background-color: rgba(255, 255, 255, .75);
+}
+._4-4 {
+    background-color: rgba(255, 255, 255, 1);
+}
+._3-1 {
+    background-color: rgba(255, 255, 255, .33);
+}
+._3-2 {
+    background-color: rgba(255, 255, 255, .66);
+}
+._3-3 {
+    background-color: rgba(255, 255, 255, .99);
+}
